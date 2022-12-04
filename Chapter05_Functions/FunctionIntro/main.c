@@ -14,7 +14,7 @@ void printEvenOrOdd(int number)
 
 int main()
 {
-    int a = 2;
+    int a = 20;
     int b = 3;
     int c = 4;
 
