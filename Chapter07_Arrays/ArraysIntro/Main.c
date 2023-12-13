@@ -2,9 +2,9 @@
 
 int main()
 {
-    int numbers[4];
+    int numbers[4]; // Array mit Länge 4 (4Werte) wird definiert
 
-    for (int i = 0; i < 4; i++)
+    for (int i = 0; i < 4; i++)   // zählt von 0 bis 3 (-> 4 Werte) - da dieser Index bei 0 startet
     {
         numbers[i] = 1337;
     }
